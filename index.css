@@ -1,0 +1,128 @@
+.project{
+    display: flex;
+    flex-direction: column;
+    }   
+    
+    ul {
+        display: flex;
+        list-style-type: none;
+        gap: 25px;  
+    }
+    a {
+        text-decoration: none;
+        color: #fff;  
+    }
+    .href {
+        margin: 0 auto 0 1200px;
+        padding-left: 15px;      
+    }
+    
+    .logo {
+        padding: 11px  100px;
+        font-size: 24px;
+        color: #fff;
+    }
+    
+    .logo-links {
+        display: flex;          
+    }
+    
+    .header {
+        background-color:rgb(76, 76, 88);
+    }
+    
+    .web {
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+        width: 300px;
+        height: 300px;    
+    }
+    
+    .sign2 {
+        padding: auto;
+        max-width: 80px;
+        margin-top: 5px;
+        background-color: cornflowerblue;
+    }
+    
+    
+    .contianer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 160px;
+    
+    }
+    
+    .imgs-p {
+        display: flex;
+        justify-content: center;
+        gap: 61px;
+    }
+    
+    .info {
+        max-width: 160px;
+    }
+    .mosa {
+        font-size: 50px;
+        
+    }
+    
+    article {
+        text-align: center;
+        font-size: 30px;
+        margin: 50px;
+    }
+    .contianer3 {
+        display: flex;
+        flex-direction: column;
+        align-items:center ;
+        background-color: darkgray;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    .thor {
+        align-self: flex-end;
+        margin-right: 500px;
+    }
+    .this {
+    max-width: 500px;
+    font-family: 'Courier New', Courier, monospace;
+    }
+    
+    .contianer4 { 
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: dodgerblue;
+        max-width: 50%;
+        margin-left: 400px;
+        margin-bottom: 50px;         
+    }
+    .sign {
+    align-self: center;
+    margin-left: 70px;
+    margin-top: 10px;
+    background-color: dodgerblue;
+    }
+    
+    
+    
+    .footer {
+        text-align: center;
+        background-color: rgb(76, 76, 88);
+        padding: 20px;
+        
+    
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+     
